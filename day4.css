@@ -1,0 +1,26 @@
+img{
+  width: 1000px ;
+  height: 300px;
+}
+.h{
+    color: darkgrey; 
+}
+button{
+   font-size: medium;
+   box-sizing: border-box;
+   height: 40px;
+   background-color: ghostwhite;
+    }
+    div{
+       margin-left: 850px;
+       margin-bottom: 100px;
+                      
+    }
+    input{
+        background-color: black;
+       width: 15px;
+       height: 15px;
+    }
+    section{
+       width: 1000px;
+    }
